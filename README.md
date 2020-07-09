@@ -1,6 +1,8 @@
 # Deep-Learning-Specialization-Coursera
 
-Assignment Notebooks for the 5 courses in the Deep Learning Specialization by **deeplearning.ai** at **Coursera**
+Assignment Notebooks for the 5 courses in the Deep Learning Specialization by **deeplearning.ai** at **Coursera**.
+
+*Note: **Course 3-Structuring Machine Learning Projects** does not have any assignment notebooks, instead contains only case study quizzes*
 
 ### Courses present:
 - [**Neural Networks**](https://github.com/parasnaren/Deep-Learning-Specialization-Coursera/tree/master/Neural%20Networks%20and%20Deep%20Learning)
